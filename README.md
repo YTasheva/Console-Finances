@@ -35,6 +35,7 @@
 
 ### Screenshot
 
+<img width="1161" alt="Screenshot 2023-11-11 at 03 09 06" src="https://github.com/YTasheva/Bootstrap-Portfolio/assets/148258557/c4f66796-4008-493c-9896-bd9b8e6284b2">
 
 ### Links
 - Solution URL: (https://github.com/YTasheva/Console-Finances)
