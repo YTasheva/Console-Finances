@@ -37,8 +37,8 @@
 
 
 ### Links
-
-
+- Solution URL: (https://github.com/YTasheva/Console-Finances)
+- Live Site URL: 
 
 ### Build With
 
