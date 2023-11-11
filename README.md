@@ -39,7 +39,7 @@
 
 ### Links
 - Solution URL: (https://github.com/YTasheva/Console-Finances)
-- Live Site URL:(https://ytasheva.github.io/Console-Finances/)
+- Live Site URL:(https://ytasheva.github.io/Rock-Paper-Scissors/)
   
 ### Build With
 
