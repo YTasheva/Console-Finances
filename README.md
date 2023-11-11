@@ -31,13 +31,7 @@
 - The greatest decrease in losses (date and amount) over the entire period.
 - Your final code should print the analysis to the browser console - the resulting analysis should look similar to the following:
 
-Financial Analysis
-----------------------------
-Total Months: 86
-Total: $38382578
-Average  Change: $-2315.12
-Greatest Increase in Profits: Feb-2012 ($1926159)
-Greatest Decrease in Profits: Sep-2013 ($-2196167)  
+<img width="491" alt="Screenshot 2023-11-11 at 02 41 28" src="https://github.com/YTasheva/Console-Finances/assets/148258557/c081aa58-4b11-4093-9922-18132c573e92">  
 
 ### Screenshot
 
