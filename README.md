@@ -41,7 +41,7 @@
 - Solution URL: (https://github.com/YTasheva/Console-Finances)
 - Live Site URL: (https://ytasheva.github.io/Console-Finances/)
   
-### Build With
+### Built With
 
 - JavaScript
 
